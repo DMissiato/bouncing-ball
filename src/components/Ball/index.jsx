@@ -1,10 +1,9 @@
 
-import { useReducer } from 'react';
+import { useReducer, useEffect } from 'react';
 import styles from './Ball.module.scss';
 
 import { frameRate, arenaSize, ballSize, ballVelocity, reboundMargin, getRandomInteger } from './../../libs/utils';
 import { useInterval } from './../../libs/hooks';
-import { useEffect } from 'react/cjs/react.development';
 
 
 const INIT_STATE = {
