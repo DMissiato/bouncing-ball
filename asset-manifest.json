@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bouncing-ball/static/css/main.a47ff143.css",
-    "main.js": "/bouncing-ball/static/js/main.fe640c0f.js",
+    "main.js": "/bouncing-ball/static/js/main.165dedcd.js",
     "static/js/787.50d29457.chunk.js": "/bouncing-ball/static/js/787.50d29457.chunk.js",
     "index.html": "/bouncing-ball/index.html",
     "main.a47ff143.css.map": "/bouncing-ball/static/css/main.a47ff143.css.map",
-    "main.fe640c0f.js.map": "/bouncing-ball/static/js/main.fe640c0f.js.map",
+    "main.165dedcd.js.map": "/bouncing-ball/static/js/main.165dedcd.js.map",
     "787.50d29457.chunk.js.map": "/bouncing-ball/static/js/787.50d29457.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a47ff143.css",
-    "static/js/main.fe640c0f.js"
+    "static/js/main.165dedcd.js"
   ]
 }
