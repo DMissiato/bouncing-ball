@@ -3,8 +3,8 @@
 const frameRate = 16;
 const arenaSize = 35;
 const ballSize = 1;
-const ballVelocity = 3;
-const reboundMargin = ballVelocity / 12;
+const ballVelocity = 2;
+const reboundMargin = ballVelocity / 8;
 
 // Functions
 const getRandomInteger = (max) =>
